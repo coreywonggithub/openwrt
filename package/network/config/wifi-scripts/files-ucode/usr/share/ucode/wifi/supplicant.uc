@@ -245,7 +245,7 @@ function setup_sta(data, config) {
 		'proto', 'mesh_fwding', 'mesh_rssi_threshold', 'frequency', 'fixed_freq',
 		'disable_ht', 'disable_ht40', 'disable_vht', 'vht', 'max_oper_chwidth',
 		'ht40', 'beacon_int', 'ieee80211w', 'rates', 'mesh_basic_rates', 'mcast_rate',
-		'bssid_blacklist', 'bssid_whitelist', 'erp', 'eap', 'phase2',
+		'bssid_blacklist', 'bssid_whitelist', 'erp', 'eap', 'phase2', 'freq_list',
 		'dpp_csign', 'dpp_netaccesskey',
 	]);
 }
